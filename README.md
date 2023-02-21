@@ -1,3 +1,3 @@
 ### My Badges
 
-![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)
+![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
